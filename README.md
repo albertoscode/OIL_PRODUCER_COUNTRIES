@@ -1,12 +1,12 @@
-# Top Oil Producing Countries Analysis
+# Top Oil-Producing Countries Analysis
 
-This repository contains files related to an analysis of the top oil producing countries as of 2021. The analysis is based on the data provided in the CSV files, and the results are presented in the Jupyter Notebook file.
+This repository contains files related to an analysis of the top oil-producing countries as of 2021. The analysis is based on the data provided in the CSV files, and the results are presented in the Jupyter Notebook file.
 
 ## Repository Contents
 
 ### CSV Files
 
-1. `INT-Export-03-06-2023_12-08-31.csv`: The original dataset containing the oil production data for the analysis.
+1. `INT-Export-03-06-2023_12-08-31.csv`: The original dataset containing the oil-production data for the analysis.
 2. `Top_10_Oil_Producer_13_03_2022.csv`: The cleaned and processed dataset containing the top 10 oil-producing countries with their respective production volumes and rankings.
 3. `Top_10_oil_producer_as_december08_2022.csv`: An alternative version of the dataset, containing the top 10 oil-producing countries as of December 8, 2022.
 
